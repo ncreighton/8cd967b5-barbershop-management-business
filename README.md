@@ -1,2 +1,28 @@
-# 8cd967b5-barbershop-management-business
-Stop losing track of your barbershop's daily operations—chaotic appointment books, scattered client notes, and no real-time view of your business health. This Notion template turns scattered data into a single, automated dashboard that gives you instant clarity on your revenue, client retention, and staff performance.  The Barbershop Management Bus
+# Barbershop Management Business Dashboard and KPI Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AeVdcLlcYIaNOgUcd0k05)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AeVdcLlcYIaNOgUcd0k05)
+
